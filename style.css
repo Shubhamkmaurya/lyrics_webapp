@@ -49,6 +49,7 @@ header * {
 
 header h1{
     margin: 0 0 30px;
+    font-family: cursive;
 }
 form{
     position: relative;
